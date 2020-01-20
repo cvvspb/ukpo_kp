@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Lab3
+namespace KP
 {
     public class AVL
     {
